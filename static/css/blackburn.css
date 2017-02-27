@@ -75,3 +75,12 @@ i {
 .pagination a {
   color: #265778;
 }
+
+.share {
+  padding-top: 1em;
+}
+
+.share-button {
+  display: inline-block;
+  vertical-align: top;
+}
